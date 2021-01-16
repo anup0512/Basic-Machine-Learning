@@ -1,4 +1,5 @@
-# Basic-Machine-Learning
+# Basic-Machine-Learning-Projects:
+1. Credit Card Fraud Detection:
 """
 Project is about CREDIT CARD fraud transactions which I did using python, 
 packages used are pandas,seaborn and sklearn.
